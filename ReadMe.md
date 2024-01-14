@@ -22,16 +22,16 @@
 ## Skills
 
 ### Programming Languages
-- <i class="fab fa-cuttlefish"></i> **C**
-- <i class="fab fa-java"></i> **Java**
-- <i class="fab fa-python"></i> **Python**
-- <i class="fas fa-code"></i> **Assembly**
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> **C**
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> **Java**
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python**
+- <img src="https://img.icons8.com/color/48/000000/assembly.png"/> **Assembly**
   
 ### Operating Systems
-- <i class="fab fa-linux"></i> **Linux (Ubuntu)**
+- <img src="https://img.icons8.com/color/48/000000/linux.png"/> **Linux (Ubuntu)**
   
 ### Data Science
-- <i class="fas fa-brain"></i> **Machine Learning**
-- <i class="fas fa-flask"></i> **Data Science**
-- <i class="fas fa-database"></i> **SQL**
-- <i class="fas fa-database"></i> **Big Data**
+- <img src="https://img.icons8.com/color/48/000000/machine-learning.png"/> **Machine Learning**
+- <img src="https://img.icons8.com/fluent/48/000000/science.png"/> **Data Science**
+- <img src="https://img.icons8.com/fluent/48/000000/sql.png"/> **SQL**
+- <img src="https://img.icons8.com/color/48/000000/big-data.png"/> **Big Data**
