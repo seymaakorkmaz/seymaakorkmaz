@@ -21,11 +21,10 @@
 
 ## Skills
 
-### Programming Languages
-- <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> **C**
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> **Java**
-- <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python**
-- <img src="https://img.icons8.com/color/48/000000/assembly.png"/> **Assembly**
+### Programming Languages <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/> **Python**
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fexercism%2Fwebsite-icons%2Fissues%2F30&psig=AOvVaw0VY6zSSKbn-vVEjRBD60Al&ust=1705330611612000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD0796R3YMDFQAAAAAdAAAAABAD"/> **Assembly**
   
 ### Operating Systems
 - <img src="https://img.icons8.com/color/48/000000/linux.png"/> **Linux (Ubuntu)**
