@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am forth year student at Yıldız Technical University major in computer engineering.<br>I'm currently working on Natural Language Processing, Audio Processing and Computer Vision.<br>I'm currently learning Big Data.
+- 🎓 I am a fourth-year student at Yıldız Technical University, majoring in computer engineering.
+- 💻 I'm currently working on projects related to Natural Language Processing, Audio Processing, and Computer Vision.
+- 📚 I'm currently learning about Big Data.
 
 
 ## 🌐 Socials:
@@ -12,8 +14,7 @@ I am forth year student at Yıldız Technical University major in computer engin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seymaakorkmaz&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seymaakorkmaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seymaakorkmaz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=seymaakorkmaz&icon=9&color=11)](https://visitcount.itsvg.in)
