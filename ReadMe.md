@@ -1,7 +1,7 @@
 # 💫 About Me:
-🎓 I am a fourth-year student at Yıldız Technical University, majoring in computer engineering.
-💻 I'm currently working on projects related to Natural Language Processing, Audio Processing, and Computer Vision.
-📚 I'm currently learning Big Data.
+- 🎓 I am a fourth-year student at Yıldız Technical University, majoring in computer engineering.
+- 💻 I'm currently working on projects related to Natural Language Processing, Audio Processing, and Computer Vision.
+- 📚 I'm currently learning Big Data.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=seymaakorkmaz&icon=9&color=11)](https://visitcount.itsvg.in)
