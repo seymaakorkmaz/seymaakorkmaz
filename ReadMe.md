@@ -29,7 +29,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.vercel.app/api?username=seymaakorkmaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seymaakorkmaz&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seymaakorkmaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seymaakorkmaz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
