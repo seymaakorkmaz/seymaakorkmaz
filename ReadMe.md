@@ -31,25 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seymaakorkmaz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-###
-
-<div align="left">
-  <a href="seymanurkorkmaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/seymanur-korkmaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/seymaakorkmaz/Seymanur-Korkmaz/blob/master/snake.yml" alt="Snake animation" />
-
-###
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
