@@ -21,21 +21,24 @@
 
 ## Skills
 
-<div align="center">
-
 ### Programming Languages
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-<img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly" title="Assembly"/>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly" title="Assembly"/>
+</div>
 
 ### Operating Systems
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux (Ubuntu)" title="Linux (Ubuntu)"/> 
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux (Ubuntu)" title="Linux (Ubuntu)"/>
+</div>
 
 ### Data Science
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" title="Machine Learning"/>
-<img src="https://img.icons8.com/fluent/48/000000/science.png" alt="Data Science" title="Data Science"/> 
-<img src="https://img.icons8.com/fluent/48/000000/sql.png" alt="SQL" title="SQL"/>
-<img src="https://img.icons8.com/color/48/000000/big-data.png" alt="Big Data" title="Big Data"/> *
-
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" title="Machine Learning"/>
+  <img src="https://img.icons8.com/fluent/48/000000/science.png" alt="Data Science" title="Data Science"/>
+  <img src="https://img.icons8.com/fluent/48/000000/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/big-data.png" alt="Big Data" title="Big Data"/>
 </div>
+
