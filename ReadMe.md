@@ -20,9 +20,10 @@
   - *2020-2024*
 
 ## Skills
+
 ### Programming Languages
 - <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> **C**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/> **Java**
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50"/> **Java**
 - <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python**
 - <img src="https://img.icons8.com/color/48/000000/assembly.png"/> **Assembly**
   
