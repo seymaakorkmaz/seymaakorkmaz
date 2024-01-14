@@ -1,39 +1,33 @@
-# Merhaba, Ben [Adınız Soyadınız] 👋
+# Hello, I'm Şeymanur Korkmaz 👋
 
-![Profil Resmi](profil_resmi.jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seymanur--korkmaz-blue)](https://www.linkedin.com/in/seymanur-korkmaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-seymaakorkmaz-lightgrey)](https://github.com/seymaakorkmaz)
 
-Ben bir [Meslek/Öğrenci/Hobici] olarak [Şu Şehirde Yaşıyorum/Bu Üniversitede Okuyorum]. [Birkaç kısa cümle ile kendinizi tanıtın. Hobileriniz, ilgi alanlarınız, veya birkaç kişisel özelliğiniz hakkında bilgi verin.]
+## Contact Information
+- Phone: +90 537 497 01 87
+- Email: seymanurkorkmaz123@gmail.com
 
-## 🚀 Projelerim
+## Personal Information
+- Status: Student (Yıldız Technical University)
+- Year of Education: 4th Year
+- Nationality: Turkish
+- Date of Birth: 04.10.2002
+- Place of Birth: Istanbul
 
-### [Proje Adı 1](proje_linki_1)
+## Education
+- Yıldız Technical University
+  - Computer Engineering
+  - 2020-2024
 
-Kısa bir açıklama: Proje hakkında kısa bir açıklama buraya yazılır.
+## Skills
 
-![Proje 1 Ekran Görüntüsü](proje1_ss.jpg)
-
-### [Proje Adı 2](proje_linki_2)
-
-Kısa bir açıklama: Proje hakkında kısa bir açıklama buraya yazılır.
-
-![Proje 2 Ekran Görüntüsü](proje2_ss.jpg)
-
-## 📫 İletişim
-
-- E-posta: [e-posta@example.com](mailto:e-posta@example.com)
-- LinkedIn: [LinkedIn Profili](https://www.linkedin.com/in/kullaniciadi/)
-- Twitter: [Twitter Profili](https://twitter.com/kullaniciadi)
-- Kişisel Web Sitesi: [www.kullaniciadi.com](https://www.kullaniciadi.com)
-
-## 🌱 Katkıda Bulunma
-
-Eğer projelerime katkıda bulunmak istiyorsanız, lütfen bir konu açın veya bir pull talebi gönderin. Katkılarınızı bekliyorum!
-
-## ⚡ Hızlı İstatistikler
-
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&count_private=true&hide=contribs,prs)
-
-## 📝 Lisans
-
-Bu proje [Lisans Türü] altında lisanslanmıştır - [Detaylar için LICENSE.md dosyasına](LICENSE.md) göz atın.
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-★★★-blue)
+![C](https://img.shields.io/badge/C-★★★-green)
+![Python](https://img.shields.io/badge/Python-★★★-yellow)
+![Assembly](https://img.shields.io/badge/Assembly-★★★-red)
+- **Operating Systems:** ![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20%28Ubuntu%29-★★★-orange)
+- **Data Science:** ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-★★★-purple)
+![Data Science](https://img.shields.io/badge/Data%20Science-★★★-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-★★★-blueviolet)
+![Big Data](https://img.shields.io/badge/Big%20Data-★★★-ff69b4)
 
