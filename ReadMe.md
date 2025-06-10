@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💫 About Me:
 * 🌍  I'm based in İstanbul/Türkiye
 * 🎓  I completed my bachelor's degree in computer engineering from Yıldız Technical University.
-* 💻  I'm currently working on Natural Language Processing, Audio Processing and Computer Vision.
-* 🧠  I'm currently learning Big Data.
+* 💻  I'm currently working on Large Language Models and Computer Vision.
 * ✉️  You can contact me at [seymanurkorkmaz123@gmail.com](mailto:seymanurkorkmaz123@gmail.com).
 
 
